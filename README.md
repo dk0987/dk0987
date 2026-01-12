@@ -32,7 +32,7 @@ Docker, Kubernetes, Git, Maven, Gradle
 ---
 
 ## Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/dilip-kumar-yadav-037270305/))  
 - 📧 Email: ydk08340gmail.com
 
 ---
