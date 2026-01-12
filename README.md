@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Dk 👋
 
-<!--
-**dk0987/dk0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **programmer** passionate about **building backend systems** and learning **scalable architectures**. I enjoy exploring **new technologies** and improving my skills in programming, databases, and cloud systems.  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Python, Django, Spring Boot, PostgreSQL, Kafka, and gRPC**  
+- 💡 Interested in **backend development, microservices, and distributed systems**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+**Programming & Backend:**  
+ Java, Spring Boot, Android, NodeJS, ReactJS, REST APIs, gRPC  
+
+**Databases:**  
+PostgreSQL, MySQL, Redis  
+
+**Messaging & Streaming:**  
+Kafka  
+
+**DevOps & Tools:**  
+Docker, Kubernetes, Git, Maven, Gradle  
+
+---
+
+## What I’m Doing
+- Building **backend projects** to improve my programming skills  
+- Learning **microservices and event-driven architectures**  
+- Exploring **cloud technologies** and **scalable system design**  
+
+---
+
+## Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- 📧 Email: ydk08340gmail.com
+
+---
+
+## Fun Fact
+I enjoy **solving challenging programming problems** and learning **new technologies** every day.
